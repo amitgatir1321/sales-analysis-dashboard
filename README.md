@@ -73,4 +73,10 @@ sales-analysis-dashboard/
 ## 👨‍💻 Author
 **Amit Gatir**  
 - TYBSc IT Student  
-- Aspiring Data Analyst  
+- Aspiring Data Analyst
+
+## 🚀 How to Use
+
+1. Download the .pbix file  
+2. Open in Power BI Desktop  
+3. Explore interactive dashboard  
