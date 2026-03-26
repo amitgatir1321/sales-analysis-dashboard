@@ -24,8 +24,7 @@ This project presents an interactive Sales Analysis Dashboard built using Power 
 ---
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](sales_dashboard.png)
-
+https://github.com/amitgatir1321/sales-analysis-dashboard/blob/main/Sales_Dashboard.png
 ---
 
 ## 📈 Key Insights
